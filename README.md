@@ -30,7 +30,10 @@
 
 <img src='https://github.com/Catrat6/Catrat6/blob/main/obs_logo.png' width='100'>
 <img src='https://github.com/Catrat6/Catrat6/blob/main/linode-1-logo-png-transparent.png' width='100'>
-<img src='https://github.com/Catrat6/Catrat6/blob/main/obs_logo.png' width='100'>
+<img src='https://github.com/Catrat6/Catrat6/blob/main/jira_logo.png' width='100'>
+<img src='https://github.com/Catrat6/Catrat6/blob/main/proxmox-logo.png' width='100'>
+<img src='https://github.com/Catrat6/Catrat6/blob/main/ubun.png' width='100'>
+<img src='' width='100'>
 
 </div>
 
