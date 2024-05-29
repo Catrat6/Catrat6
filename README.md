@@ -1,5 +1,5 @@
 <div align='center'>
-# 👻 Catrat 👻
+<h1>👻 Catrat 👻</h1>
 </div>
 
 <div align='center'>
