@@ -4,6 +4,7 @@
 </div>
 
 <div align='center'>
+<img src='https://github.com/Catrat6/Catrat6/blob/main/octocat-1717020007518.png' width='300'>
 <h4>🚑 Currently work as Help Desk Tier 1 for a SaaS focused on N.E.M.T routing</h4>
 <h4>🕸️ FreeLance Webdesigner</h4>
 <h4>🐍 Highly interested in working as a Python Developer but currently just a hobbyist</h4>
@@ -24,8 +25,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 </div>
 
-<div align='center'>
-<img src='https://github.com/Catrat6/Catrat6/blob/main/octocat-1717020007518.png' width='100'>
-</div>
+
 
 
