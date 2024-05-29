@@ -1,12 +1,12 @@
 <div align='center'>
 <h1>👻 Catrat 👻</h1>
 <h2>Thankyou for taking a look at my Github!</h2>
+</div>
 
-<h3>Currently work as Help Desk Tier 1 for a SaaS focused on N.E.M.T routing</h3>
-<h3>FreeLance Webdesigner</h3>
-<h3>Highly interested in working as a Python Developer but currently just a hobbyist</h3>
-  
-
+<div align='center'>
+<h4>Currently work as Help Desk Tier 1 for a SaaS focused on N.E.M.T routing</h4>
+<h4>FreeLance Webdesigner</h4>
+<h4>Highly interested in working as a Python Developer but currently just a hobbyist</h4>
 </div>
 
 <div align='center'>
