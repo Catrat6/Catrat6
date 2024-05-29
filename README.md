@@ -55,5 +55,5 @@
 </div>
 
 <div align='center'>
-<img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXQ0Z3U0cHI1cGlmOWUzZW00MWpoemZpYXBlYWQ4aXl4ZjhwanRtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BW51OCstarPBm/giphy.webp' width='300'>
+<img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHh0MnJyeGt3a2dhbDY2YXpybHRmY3dtdWwzOWUzeDY3dnZiM2JpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YVGeZszGz4eC4/giphy.gif'>
 </div>
