@@ -37,10 +37,12 @@
 <img src='https://github.com/Catrat6/Catrat6/blob/main/steam_logo.png' width='100'>
 <img src='https://github.com/Catrat6/Catrat6/blob/main/Linux_Logo_in_Linux_Libertine_Font.svg.png' width='100'>
 <img src='https://github.com/Catrat6/Catrat6/blob/main/apache.png' width='100'>
+<img src='https://github.com/Catrat6/Catrat6/blob/main/cisco.png' width='100'>
 
 <br>
 
 <img src='https://github.com/Catrat6/Catrat6/blob/main/samuri.png' width='100'>
+<img src='https://github.com/Catrat6/Catrat6/blob/main/rathalos-03.png' width='100'>
 
 </div>
 
