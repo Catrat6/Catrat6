@@ -54,4 +54,6 @@
 <img src='https://github.com/Catrat6/Catrat6/blob/main/mew.png' width='100'>
 </div>
 
-<img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXQ0Z3U0cHI1cGlmOWUzZW00MWpoemZpYXBlYWQ4aXl4ZjhwanRtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BW51OCstarPBm/giphy.webp'>
+<div align='center'>
+<img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXQ0Z3U0cHI1cGlmOWUzZW00MWpoemZpYXBlYWQ4aXl4ZjhwanRtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BW51OCstarPBm/giphy.webp' width='300'>
+</div>
