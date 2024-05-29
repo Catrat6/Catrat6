@@ -46,9 +46,10 @@
 </div>
 
 <div align='center'>
+<h2>Games</h2>
 <img src='https://github.com/Catrat6/Catrat6/blob/main/samuri.png' width='100'>
 <img src='https://github.com/Catrat6/Catrat6/blob/main/rathalos-03.png' width='100'>
-
+<img src='https://github.com/Catrat6/Catrat6/blob/main/mew.png' width='100'>
 </div>
 
 
