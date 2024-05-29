@@ -49,7 +49,7 @@
 </div>
 
 <div align='center'>  
-<lb></lb>
+<br/>
 <h3>👽Check out some of my links<h3>
 <h4>🔗 Thanks for visiting my github and taking a look! Here are some important links to my other content<h4>
 <h4>👀 <a href='https://www.blackmagik.xyz/' target='_blank'>My personal website</a></h4>
