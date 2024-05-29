@@ -1,8 +1,8 @@
 <div align='center'>
 <h1>👻 Catrat 👻</h1>
 <h2>Thankyou for taking a look at my Github!</h2>
-<ul>
-  <li>Currently work as Help Desk Tier 1 for SaaS focused on routing N.E.M.T</li>
+<ul style='list-style-type: none;'>
+  <li>Currently work as Help Desk Tier 1 for a SaaS focused on N.E.M.T routing</li>
   <li>FreeLance Webdesigner</li>
   <li>Highly interested in working as a Python Developer but currently just a hobbyist</li>
   
