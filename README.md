@@ -35,16 +35,10 @@
 <img src='https://github.com/Catrat6/Catrat6/blob/main/ubun.png' width='100'>
 <img src='https://github.com/Catrat6/Catrat6/blob/main/kali-logo.png' width='100'>
 <img src='https://github.com/Catrat6/Catrat6/blob/main/steam_logo.png' width='100'>
-
 <br>
-
-
 <img src='https://github.com/Catrat6/Catrat6/blob/main/cisco.png' width='100'>
 <img src='https://github.com/Catrat6/Catrat6/blob/main/Linux_Logo_in_Linux_Libertine_Font.svg.png' width='100'>
 <img src='https://github.com/Catrat6/Catrat6/blob/main/apache.png' width='100'>
-
-
-
 </div>
 
 <div align='center'>
@@ -52,6 +46,14 @@
 <img src='https://github.com/Catrat6/Catrat6/blob/main/samuri.png' width='100'>
 <img src='https://github.com/Catrat6/Catrat6/blob/main/rathalos-03.png' width='100'>
 <img src='https://github.com/Catrat6/Catrat6/blob/main/mew.png' width='100'>
+</div>
+
+<div align='center'>  
+<h2>👽Check out some of my links 👽<h2>
+<h3>🔗 Thanks for visiting my github and taking a look! Here are some important links to my other content 🔗</h3>
+<h3>👀 <a href='https://www.blackmagik.xyz/' target='_blank'>My personal website</a></h3>
+<h4>While this does feature some of my current projects, its a little older, I plan on rebuilding it soon to reflect all of my skills and showcase newer projects</h4>
+
 </div>
 
 <div align='center'>
