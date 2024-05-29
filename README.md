@@ -50,7 +50,7 @@
 
 <div align='center'>  
 <h2>👽Check out some of my links 👽<h2>
-<h3>🔗 Thanks for visiting my github and taking a look! Here are some important links to my other content 🔗</h3>
+<p>🔗 Thanks for visiting my github and taking a look! Here are some important links to my other content 🔗</p>
 <h3>👀 <a href='https://www.blackmagik.xyz/' target='_blank'>My personal website</a></h3>
 <h4>While this does feature some of my current projects, its a little older, I plan on rebuilding it soon to reflect all of my skills and showcase newer projects</h4>
 
