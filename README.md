@@ -5,7 +5,7 @@
 
 <div align='center'>
 <img src='https://github.com/Catrat6/Catrat6/blob/main/octocat-1717020007518.png' width='300'>
-<h4>🚑 System Developer and Dispatcher for Lakeshore Transport</h4>
+<h4>🚑 Dispatch and Operations for Lakeshore Transport</h4>
 <h4>🕸️ FreeLance Webdesigner</h4>
 <h4>🐍 Highly interested in working as a Python Developer but currently just a hobbyist</h4>
 </div>
